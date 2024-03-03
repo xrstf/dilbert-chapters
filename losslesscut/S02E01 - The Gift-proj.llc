@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E01 - The Gift.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 65.04,
+      name: 'Chapter 1',
+    },
+    {
+      start: 65.04,
+      end: 129.28,
+      name: 'Intro',
+    },
+    {
+      start: 129.36,
+      end: 1296.32,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1296.32,
+      end: 1330.56,
+      name: 'Outro',
+    },
+  ],
+}

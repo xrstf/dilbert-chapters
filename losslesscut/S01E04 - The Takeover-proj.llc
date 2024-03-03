@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E04 - The Takeover.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 195.92,
+      name: 'Chapter 1',
+    },
+    {
+      start: 195.92,
+      end: 260.16,
+      name: 'Intro',
+    },
+    {
+      start: 260.24,
+      end: 1310.92,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1310.92,
+      end: 1345.6,
+      name: 'Outro',
+    },
+  ],
+}

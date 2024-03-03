@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E10 - The Assistant.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 153.08,
+      name: 'Chapter 1',
+    },
+    {
+      start: 153.08,
+      end: 216.968,
+      name: 'Intro',
+    },
+    {
+      start: 217.056,
+      end: 1286.376,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1286.376,
+      end: 1320.648,
+      name: 'Outro',
+    },
+  ],
+}

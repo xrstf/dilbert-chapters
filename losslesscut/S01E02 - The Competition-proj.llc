@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E02 - The Competition.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 108.08,
+      name: 'Chapter 1',
+    },
+    {
+      start: 108.08,
+      end: 172.48,
+      name: 'Intro',
+    },
+    {
+      start: 172.56,
+      end: 1285.12,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1285.12,
+      end: 1318.08,
+      name: 'Outro',
+    },
+  ],
+}

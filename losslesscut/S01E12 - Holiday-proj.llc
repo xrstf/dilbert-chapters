@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E12 - Holiday.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 144.88,
+      name: 'Chapter 1',
+    },
+    {
+      start: 144.88,
+      end: 208.96,
+      name: 'Intro',
+    },
+    {
+      start: 209.04,
+      end: 1314.36,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1314.36,
+      end: 1348.48,
+      name: 'Outro',
+    },
+  ],
+}

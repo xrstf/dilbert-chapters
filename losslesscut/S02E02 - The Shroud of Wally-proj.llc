@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E02 - The Shroud of Wally.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 159.28,
+      name: 'Chapter 1',
+    },
+    {
+      start: 159.28,
+      end: 223.68,
+      name: 'Intro',
+    },
+    {
+      start: 223.76,
+      end: 1278.92,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1278.92,
+      end: 1313.92,
+      name: 'Outro',
+    },
+  ],
+}

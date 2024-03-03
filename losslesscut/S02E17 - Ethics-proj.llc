@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E17 - Ethics.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 141.96,
+      name: 'Chapter 1',
+    },
+    {
+      start: 141.96,
+      end: 206.08,
+      name: 'Intro',
+    },
+    {
+      start: 206.16,
+      end: 1283.52,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1283.52,
+      end: 1320,
+      name: 'Outro',
+    },
+  ],
+}

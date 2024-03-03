@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E06 - Elbonian Trip.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 162.96,
+      name: 'Chapter 1',
+    },
+    {
+      start: 162.96,
+      end: 227.2,
+      name: 'Intro',
+    },
+    {
+      start: 227.28,
+      end: 1299.04,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1299.04,
+      end: 1333.12,
+      name: 'Outro',
+    },
+  ],
+}

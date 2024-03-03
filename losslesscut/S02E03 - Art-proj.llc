@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E03 - Art.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 121.28,
+      name: 'Chapter 1',
+    },
+    {
+      start: 121.28,
+      end: 184.344,
+      name: 'Intro',
+    },
+    {
+      start: 184.448,
+      end: 1278.68,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1278.68,
+      end: 1313.304,
+      name: 'Outro',
+    },
+  ],
+}

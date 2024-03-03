@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E10 - Y2K.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 86.52,
+      name: 'Chapter 1',
+    },
+    {
+      start: 86.52,
+      end: 150.72,
+      name: 'Intro',
+    },
+    {
+      start: 150.8,
+      end: 1314.44,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1314.44,
+      end: 1348.48,
+      name: 'Outro',
+    },
+  ],
+}

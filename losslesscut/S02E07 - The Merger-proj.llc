@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E07 - The Merger.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 85.08,
+      name: 'Chapter 1',
+    },
+    {
+      start: 85.08,
+      end: 149.456,
+      name: 'Intro',
+    },
+    {
+      start: 149.552,
+      end: 1284.272,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1284.272,
+      end: 1318.736,
+      name: 'Outro',
+    },
+  ],
+}

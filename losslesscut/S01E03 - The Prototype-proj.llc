@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E03 - The Prototype.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 110.52,
+      name: 'Chapter 1',
+    },
+    {
+      start: 110.52,
+      end: 174.72,
+      name: 'Intro',
+    },
+    {
+      start: 174.8,
+      end: 1311.24,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1311.24,
+      end: 1345.6,
+      name: 'Outro',
+    },
+  ],
+}

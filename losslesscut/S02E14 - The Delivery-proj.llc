@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E14 - The Delivery.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 83.52,
+      name: 'Chapter 1',
+    },
+    {
+      start: 83.52,
+      end: 146.896,
+      name: 'Intro',
+    },
+    {
+      start: 146.992,
+      end: 1288.072,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1288.072,
+      end: 1322.576,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E07 - Tower of Babel.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 136.08,
+      name: 'Chapter 1',
+    },
+    {
+      start: 136.08,
+      end: 201.28,
+      name: 'Intro',
+    },
+    {
+      start: 201.36,
+      end: 1297.88,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1297.88,
+      end: 1331.52,
+      name: 'Outro',
+    },
+  ],
+}

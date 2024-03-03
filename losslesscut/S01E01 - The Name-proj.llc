@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E01 - The Name.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 140.48,
+      name: 'Chapter 1',
+    },
+    {
+      start: 140.48,
+      end: 204.48,
+      name: 'Intro',
+    },
+    {
+      start: 204.56,
+      end: 1279.56,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1279.56,
+      end: 1309.44,
+      name: 'Outro',
+    },
+  ],
+}

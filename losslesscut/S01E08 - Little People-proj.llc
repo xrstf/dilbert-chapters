@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E08 - Little People.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 107.6,
+      name: 'Chapter 1',
+    },
+    {
+      start: 107.6,
+      end: 171.864,
+      name: 'Intro',
+    },
+    {
+      start: 171.968,
+      end: 1310.808,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1310.808,
+      end: 1344.664,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E05 - The Dupey.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 80.4,
+      name: 'Chapter 1',
+    },
+    {
+      start: 80.4,
+      end: 144.648,
+      name: 'Intro',
+    },
+    {
+      start: 144.736,
+      end: 1286.64,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1286.64,
+      end: 1320.968,
+      name: 'Outro',
+    },
+  ],
+}

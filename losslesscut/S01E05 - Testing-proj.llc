@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E05 - Testing.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 143.04,
+      name: 'Chapter 1',
+    },
+    {
+      start: 143.04,
+      end: 207.376,
+      name: 'Intro',
+    },
+    {
+      start: 207.472,
+      end: 1313.752,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1313.752,
+      end: 1348.496,
+      name: 'Outro',
+    },
+  ],
+}

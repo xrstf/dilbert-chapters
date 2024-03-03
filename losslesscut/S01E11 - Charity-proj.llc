@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E11 - Charity.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 150.76,
+      name: 'Chapter 1',
+    },
+    {
+      start: 150.76,
+      end: 215.04,
+      name: 'Intro',
+    },
+    {
+      start: 215.12,
+      end: 1315,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1315,
+      end: 1348.8,
+      name: 'Outro',
+    },
+  ],
+}

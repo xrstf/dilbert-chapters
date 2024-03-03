@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E08 - Hunger.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 185.6,
+      name: 'Chapter 1',
+    },
+    {
+      start: 185.6,
+      end: 250.24,
+      name: 'Intro',
+    },
+    {
+      start: 250.32,
+      end: 1286.52,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1286.52,
+      end: 1320.64,
+      name: 'Outro',
+    },
+  ],
+}

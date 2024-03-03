@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E12 - The Virtual Employee.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 111.4,
+      name: 'Chapter 1',
+    },
+    {
+      start: 111.4,
+      end: 175.36,
+      name: 'Intro',
+    },
+    {
+      start: 175.44,
+      end: 1286.48,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1286.48,
+      end: 1320.96,
+      name: 'Outro',
+    },
+  ],
+}

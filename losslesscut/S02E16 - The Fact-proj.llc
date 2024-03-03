@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E16 - The Fact.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 195.04,
+      name: 'Chapter 1',
+    },
+    {
+      start: 195.04,
+      end: 257.92,
+      name: 'Intro',
+    },
+    {
+      start: 258,
+      end: 1289.6,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1289.6,
+      end: 1325.76,
+      name: 'Outro',
+    },
+  ],
+}

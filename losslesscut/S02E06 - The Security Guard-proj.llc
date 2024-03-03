@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E06 - The Security Guard.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 68.44,
+      name: 'Chapter 1',
+    },
+    {
+      start: 68.44,
+      end: 132.488,
+      name: 'Intro',
+    },
+    {
+      start: 132.576,
+      end: 1284.216,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1284.216,
+      end: 1318.088,
+      name: 'Outro',
+    },
+  ],
+}

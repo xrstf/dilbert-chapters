@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E09 - The Off-Site Meeting.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 194.64,
+      name: 'Chapter 1',
+    },
+    {
+      start: 194.64,
+      end: 257.92,
+      name: 'Intro',
+    },
+    {
+      start: 258,
+      end: 1284.8,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1284.8,
+      end: 1319.04,
+      name: 'Outro',
+    },
+  ],
+}

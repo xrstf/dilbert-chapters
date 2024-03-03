@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E09 - The Knack.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 164.52,
+      name: 'Chapter 1',
+    },
+    {
+      start: 164.52,
+      end: 228.496,
+      name: 'Intro',
+    },
+    {
+      start: 228.592,
+      end: 1313.992,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1313.992,
+      end: 1347.856,
+      name: 'Outro',
+    },
+  ],
+}

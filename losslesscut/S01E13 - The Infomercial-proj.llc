@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S01E13 - The Infomercial.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 111.12,
+      name: 'Chapter 1',
+    },
+    {
+      start: 111.12,
+      end: 175.36,
+      name: 'Intro',
+    },
+    {
+      start: 175.44,
+      end: 1309.8,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1309.8,
+      end: 1343.68,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E13 - Pregnancy.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 288,
+      name: 'Chapter 1',
+    },
+    {
+      start: 288,
+      end: 352.344,
+      name: 'Intro',
+    },
+    {
+      start: 352.448,
+      end: 1280.368,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1280.368,
+      end: 1311.064,
+      name: 'Outro',
+    },
+  ],
+}

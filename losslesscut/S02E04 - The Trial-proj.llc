@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'S02E04 - The Trial.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 55.6,
+      name: 'Chapter 1',
+    },
+    {
+      start: 55.6,
+      end: 119.696,
+      name: 'Intro',
+    },
+    {
+      start: 119.792,
+      end: 1286.352,
+      name: 'Chapter 2',
+    },
+    {
+      start: 1286.352,
+      end: 1320.656,
+      name: 'Outro',
+    },
+  ],
+}
