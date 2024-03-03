@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E02 - The Shroud of Wally.mkv',
+  mediaFileName: '../Season 2/S02E02 - The Shroud of Wally.mkv',
   cutSegments: [
     {
       start: 0,

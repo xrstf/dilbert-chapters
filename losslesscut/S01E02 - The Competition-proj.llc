@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E02 - The Competition.mkv',
+  mediaFileName: '../Season 1/S01E02 - The Competition.mkv',
   cutSegments: [
     {
       start: 0,

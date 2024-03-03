@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E15 - Company Picnic.mkv',
+  mediaFileName: '../Season 2/S02E15 - Company Picnic.mkv',
   cutSegments: [
     {
       start: 0,

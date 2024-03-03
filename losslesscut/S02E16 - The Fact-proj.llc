@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E16 - The Fact.mkv',
+  mediaFileName: '../Season 2/S02E16 - The Fact.mkv',
   cutSegments: [
     {
       start: 0,

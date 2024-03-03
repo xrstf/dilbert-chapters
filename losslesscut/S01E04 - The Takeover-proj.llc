@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E04 - The Takeover.mkv',
+  mediaFileName: '../Season 1/S01E04 - The Takeover.mkv',
   cutSegments: [
     {
       start: 0,

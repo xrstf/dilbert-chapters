@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E10 - Y2K.mkv',
+  mediaFileName: '../Season 1/S01E10 - Y2K.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E12 - Holiday.mkv',
+  mediaFileName: '../Season 1/S01E12 - Holiday.mkv',
   cutSegments: [
     {
       start: 0,

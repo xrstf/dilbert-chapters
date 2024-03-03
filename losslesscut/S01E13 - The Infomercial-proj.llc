@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E13 - The Infomercial.mkv',
+  mediaFileName: '../Season 1/S01E13 - The Infomercial.mkv',
   cutSegments: [
     {
       start: 0,

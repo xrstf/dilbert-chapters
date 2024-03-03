@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E08 - Little People.mkv',
+  mediaFileName: '../Season 1/S01E08 - Little People.mkv',
   cutSegments: [
     {
       start: 0,

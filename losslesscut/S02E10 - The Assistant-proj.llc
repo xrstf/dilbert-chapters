@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E10 - The Assistant.mkv',
+  mediaFileName: '../Season 2/S02E10 - The Assistant.mkv',
   cutSegments: [
     {
       start: 0,

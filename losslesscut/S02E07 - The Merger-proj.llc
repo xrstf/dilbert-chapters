@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E07 - The Merger.mkv',
+  mediaFileName: '../Season 2/S02E07 - The Merger.mkv',
   cutSegments: [
     {
       start: 0,

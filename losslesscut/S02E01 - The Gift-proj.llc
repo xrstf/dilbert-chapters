@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E01 - The Gift.mkv',
+  mediaFileName: '../Season 2/S02E01 - The Gift.mkv',
   cutSegments: [
     {
       start: 0,

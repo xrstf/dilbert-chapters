@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E09 - The Off-Site Meeting.mkv',
+  mediaFileName: '../Season 2/S02E09 - The Off-Site Meeting.mkv',
   cutSegments: [
     {
       start: 0,

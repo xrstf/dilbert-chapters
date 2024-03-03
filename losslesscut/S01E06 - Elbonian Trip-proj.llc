@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E06 - Elbonian Trip.mkv',
+  mediaFileName: '../Season 1/S01E06 - Elbonian Trip.mkv',
   cutSegments: [
     {
       start: 0,

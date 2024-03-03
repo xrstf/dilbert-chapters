@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E05 - Testing.mkv',
+  mediaFileName: '../Season 1/S01E05 - Testing.mkv',
   cutSegments: [
     {
       start: 0,

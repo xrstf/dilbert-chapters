@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E11 - Charity.mkv',
+  mediaFileName: '../Season 1/S01E11 - Charity.mkv',
   cutSegments: [
     {
       start: 0,

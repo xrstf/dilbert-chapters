@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E12 - The Virtual Employee.mkv',
+  mediaFileName: '../Season 2/S02E12 - The Virtual Employee.mkv',
   cutSegments: [
     {
       start: 0,

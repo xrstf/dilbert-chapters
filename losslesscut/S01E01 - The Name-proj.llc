@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E01 - The Name.mkv',
+  mediaFileName: '../Season 1/S01E01 - The Name.mkv',
   cutSegments: [
     {
       start: 0,

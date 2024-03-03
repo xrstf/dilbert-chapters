@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S01E09 - The Knack.mkv',
+  mediaFileName: '../Season 1/S01E09 - The Knack.mkv',
   cutSegments: [
     {
       start: 0,

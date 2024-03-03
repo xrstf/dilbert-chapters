@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E13 - Pregnancy.mkv',
+  mediaFileName: '../Season 2/S02E13 - Pregnancy.mkv',
   cutSegments: [
     {
       start: 0,

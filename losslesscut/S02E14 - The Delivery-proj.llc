@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: 'S02E14 - The Delivery.mkv',
+  mediaFileName: '../Season 2/S02E14 - The Delivery.mkv',
   cutSegments: [
     {
       start: 0,
